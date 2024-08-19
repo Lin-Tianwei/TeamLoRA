@@ -1,0 +1,662 @@
+[
+    {
+        "instruction": "What kind of relationship exists between the two given sentences: neutral, contradiction, or entailment?",
+        "input": "Sentence 1: To that end, the report suggests that Statistics Canada should collect data on the supply of debt and equity financing to small and medium size enterprises, including, in particular, coverage of knowledge based industries, aboriginal enterprises and other sectors or subsectors determined from time to time to be of particular public interest.\nSentence 2: The paper is about Statistics Canada.",
+        "output": "entailment"
+    },
+    {
+        "instruction": "编写一个涉及一个想要环游世界的人的故事。",
+        "input": "",
+        "output": "有一个年轻人名叫杰克，一直梦想着能够环游世界。自从他上学时第一次阅读了一本关于世界文化的书之后，他就对这个世界感到无比的好奇和充满了探险的冲动。毕业后，杰克决定开始追寻自己的梦想。\n\n在开始环游世界之前，杰克制定了一份详细的计划。他决定从亚洲开始，然后前往欧洲，非洲，美洲，最后到澳大利亚结束他的旅程。杰克节省每一分钱，准备了足够的经费，并开始了他激动人心的旅程。\n\n他先到了中国，参观了紫禁城、长城和颐和园。接着，杰克去了日本，感受到了东京的忙碌和京都的宁静。在印度，他体验了泰姬陵的壮丽，感受了印度教的神秘。杰克一路行来，被不同国家和文化的差异所吸引。\n\n在欧洲，杰克没有错过巴黎的浪漫，罗马的古老，伦敦的文明。他每到一座城市，都要品尝当地的食物，欣赏风景名胜，与当地居民交流。非洲的狮子、大象和长颈鹿给杰克留下了深刻印象，美洲的大峡谷和纽约的繁华也令他震撼。\n\n最后，杰"
+    },
+    {
+        "instruction": "when was the last time cowboys won superbowl",
+        "input": "",
+        "output": "1995"
+    },
+    {
+        "instruction": "You are an AI assistant. Provide a detailed answer so user don’t need to search outside to understand the answer.",
+        "input": "You are given a sentence in English. Your job is to translate the English sentence into Italian.\n\nWe need more experimentation.",
+        "output": "In Italian, the sentence \"We need more experimentation\" can be translated as \"Abbiamo bisogno di più sperimentazione.\""
+    },
+    {
+        "instruction": "who plays ice bear in we bare bears",
+        "input": "",
+        "output": "Demetri Martin"
+    },
+    {
+        "instruction": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "input": "Question: Question: \"China Unicom and China Mobile both provide?\"  Context: \"China Mobile had more than 2,300 base stations suspended due to power disruption or severe telecommunication traffic congestion. Half of the wireless communications were lost in the Sichuan province. China Unicom's service in Wenchuan and four nearby counties was cut off, with more than 700 towers suspended.\"  Answer:\nAnswer:",
+        "output": "China Unicom and China Mobile both provide telecommunication services, specifically wireless communication networks and infrastructure."
+    },
+    {
+        "instruction": "Among the options given, choose the correct one.",
+        "input": "Question: Which technology was developed most recently?\nChoices: A.cellular telephone, B.television, C.refrigerator, D.airplane",
+        "output": "A"
+    },
+    {
+        "instruction": "Write a summary that captures the main ideas of the text:",
+        "input": "Background:  Lower middle class Indiana family.\n\nMy mom has been messed up for a couple of years now - alcoholic, thin, paranoid, abusive - but her health has deteriorated rapidly in the past year.  She's very thin and frail, her legs are swollen to the point when she can't get around very well, and she's not able to eat anything or keep food down.  She also complains of heart palpitations and dizziness.\n\nShe lost her job nearly 2 years ago and has no income or health insurance.  We've been trying to get Social Security disability or supplemental income for her, but she was denied.  Dad took her to the doctor last week and she was admitted to the hospital.  I got a call Friday morning from a nurse (Mom gave her permission to call me) who told me that a blood test came back positive for meth and oxycodone and if I knew anything about it.  I said I was shocked, but not surprised, as it explained a lot of her behavior for the past few years.\n\nThey wanted to keep her in the hospital for detox and behavior therapy, and they were hoping I could talk her into staying.  She denied any drug use and refused to stay in the hospital.  They released her with a script for antibiotics (UTI), vitamins, iron, and told her to drink Ensure and cranberry juice, rest and take better care of herself.  My dad is with her.\n\nDad can't believe she could have access to this stuff and insists the results must be wrong.  I can absolutely believe it.  She worked graveyard at a factory for a few months before she lost her job.  Those night shift workers are notorious for meth abuse in my hometown.  I think she started then and wasn't able to stop.\n\nMy dad has been giving her ~$500 every month to pay her bills, but she only has a phone bill and credit cards.  Turns out she wasn't paying on the cards, and they have gone to collection.  The money has been going somewhere.",
+        "output": "Mom's led a secret life of drug abuse and debt.  My dad can't believe it.  Is there any way a hospital blood test can produce a false positive for meth and oxycodone?"
+    },
+    {
+        "instruction": "Decide the word represented by the blank in the provided sentence.",
+        "input": "Sentence: 'It is easier for the girl to organize the chest versus the desk because there are more things in the _ .'\nOption A: 'chest'\nOption B: 'desk'",
+        "output": "B"
+    },
+    {
+        "instruction": "李某于1996年去德国留学，在德国准备和一美国姑娘结婚，根据我国法律的规定，该婚姻应该适用哪国法律？",
+        "input": "",
+        "output": "德国。即可以在德国当地按德国的婚姻法，也可以去中国使领馆按中国的婚姻法结婚。"
+    },
+    {
+        "instruction": "what is the newest season of deadliest catch",
+        "input": "",
+        "output": "13"
+    },
+    {
+        "instruction": "将给定的一段文字翻译成西班牙语。\n\"The quick brown fox jumps over the lazy dog.\"",
+        "input": "",
+        "output": "\"El rápido zorro marrón salta sobre el perro perezoso.\""
+    },
+    {
+        "instruction": "Decide the word represented by the blank in the provided sentence.",
+        "input": "Sentence: 'Kevin's swamp Hibiscus was thriving whereas Matthew's wasn't because _ had a sunny boggy spot outdoors for it.'\nOption A: 'Kevin'\nOption B: 'Matthew'",
+        "output": "A"
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "Theaudiofileofthislivechannelingcanbefoundhere.\n\nPlease segment the words:",
+        "output": "The audio file of this live channeling can be found here.\n\nIt appears that the provided text is missing spaces between words, making it difficult to understand. I have segmented the words for better comprehension as shown above."
+    },
+    {
+        "instruction": "Can you identify the relationship between these two sentences as neutral, contradiction, or entailment?",
+        "input": "Sentence 1: Sierpe River (Spanish: \"Rio Sierpe\") is a river of Costa Rica. Boat traffic is common with both locals and tourists. A broad range of wildlife can be seen from the American Crocodile, various other reptile species, and exotic fish and birds. It joins the Rio Terraba.\nSentence 2: Sierpe River has no water.",
+        "output": "contradiction"
+    },
+    {
+        "instruction": "请回答“2+2=？”",
+        "input": "",
+        "output": "4"
+    },
+    {
+        "instruction": "Identify the connection between the given sentences as either neutral, contradiction, or entailment.",
+        "input": "Sentence 1: Niederreiter scored a goal and an assist in Friday's 4-2 win over the Jets. The Wild scored all four of their goals in the third period, with Niederreiter getting the comeback rolling with his third tally of the season. After an ice-cold start to the campaign, the 26-year-old now has a respectable seven points in 11 games through November, including all three of his goals.\nSentence 2: The Jets won Friday's game.",
+        "output": "contradiction"
+    },
+    {
+        "instruction": "Guess the style of a given painting.",
+        "input": "",
+        "output": "I'm sorry, as an AI language model and since I'm not able to view images, I'm unable to accurately guess the style of a painting. Can you tell me more about the painting or describe it so That might help me to infer about its style?"
+    },
+    {
+        "instruction": "双眼皮贴是贴上眼皮还是下眼皮 这个问题我思考了很久，我贴上眼皮一倒立不就成了下眼皮了？",
+        "input": "",
+        "output": "双眼皮贴是贴在上眼皮的，因为它的目的是通过在上眼皮上制造一个褶皱来形成双眼皮效果。你的问题中提到的倒立其实并不会改变眼皮的位置，对于双眼皮贴的功能也没有影响。双眼皮贴利用皮肤的粘性固定在上眼皮上，通过人为的褶皱拉升效果，使单眼皮的人看起来像是有双眼皮，因此必须贴在上眼皮上贴才会起作用。倒立后的视角变化并不会改变双眼皮贴的功能或作用的位置。"
+    },
+    {
+        "instruction": "Determine the relationship between the following sentences: are they duplicates or not? Select 'duplicate' or 'not duplicate'.",
+        "input": "Text 1: Indian Railways: If there is no refund for the cancellation of a confirmed Tatkal ticket, why would anyone bother to cancel their Tatkal ticket?\nText 2: What did sources say regarding the refund of canceled Tatkal tickets?",
+        "output": "not duplicate"
+    },
+    {
+        "instruction": "请预测下列病人的预后和生存率。女性，40岁，左侧乳房浅层切除术后的肥大细胞瘤。",
+        "input": "",
+        "output": "对于该患者，左侧乳房的肥大细胞瘤切除后，预后和生存率受到多种因素影响，如癌症分期（T、N、M分期）、肿瘤分级、转移情况、年龄、患者家族史等。一般来说，低分期、低分级、未转移的肥大细胞瘤预后良好，生存率高。建议进行针对性治疗方案，如放疗、化疗等，并定期进行随访，掌握患者疾病的变化和进展，以便及时调整治疗方案和治疗。"
+    },
+    {
+        "instruction": "三国中谁说出宁教我负天下人",
+        "input": "",
+        "output": "曹操。曹操误杀吕伯奢,大家都骂他“恩将仇报”,这还不止,他杀了人还说“宁我负人,毋人负我”但大家看《三国演义》是确写成了“宁教我负天下人,不叫天下人负我."
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "Premise: Some city attorneys disagree with her interpretation of evidentiary statutes when Zelon puts limits on their use of hearsay testimony.\n\nHypothesis: Her interpretation of evidentiary statuses led to agreements by some city attorneys.\n\nDoes the premise entail the hypothesis?",
+        "output": "Okay, let's think about this like a story. There is a person named Zelon, and she has an idea about some rules called \"evidentiary statutes.\" These rules help decide what kind of stories can be told in a special place called a courtroom.\n\nNow, some city attorneys - they are like the people who help the city follow the rules - don't agree with Zelon's ideas. They think her rules for telling stories in the courtroom are too limiting, especially when it comes to a type called \"hearsay testimony.\" That's when someone tells a story that they heard from someone else, and it's sometimes not allowed in the courtroom.\n\nThe question asks if the premise - the part about some city attorneys disagreeing with Zelon's ideas - means that the hypothesis happened. The hypothesis says that some city attorneys agreed with Zelon's ideas.\n\nNow, let's see if the story tells us that the hypothesis happened. The story says that some city attorneys disagreed with her ideas, but it doesn't say that any of them agreed with her. So, the premise does not entail the hypothesis. The story doesn't tell us if anyone agreed with Zelon."
+    },
+    {
+        "instruction": "Provide a concise summary for the given passage:",
+        "input": "At the end of May, I met a wonderful girl. We hit it off instantly and feelings were mutual; no games involved. We got really close, shared some of our deepest secrets, the words I love you came naturally, and basically I had never felt so strongly for someone so quickly.\n\nProblem is, she goes to school 11 driving hours away. Her parents house and my parents house are right by each other, but unfortunately we go to school miles and miles apart. It is our senior year, and at first we didn't think it would make sense to be serious about this relationship when we started school (which is now), and just hope that we would meet up again after the school year. But, obviously, the more time we spent together, the closer we got, the more attached we got, and now we find ourselves in a long distance relationship. \n\nI've done this once before, with only a 2 hour separation and it didn't work out for other reasons, so my view on LDR's isn't completely shot. But i didn't want to get into another one because I loved the freedom college provided and it is my senior year. However, this girl came along, and completely changed my mind. I am convinced that if we get through this LDR, I will marry her. She is everything I want and more.\n\nI came here to seek advice from you wonderful redditors, hopefully who have experienced similar circumstances. If it was the beginning of my sophomore year things would be different, because I dont think I could do ~3 years of LDR. But 1 year doesn't seem so bad. I know it will suck at times, and communication is key, but what are some tips, tricks, advice, words of encouragement that would help me get through this with her?",
+        "output": "I'm in a LDR with a girl I fell in love with over the summer, 1 year of college left, same hometown, just need to get through this year. Advice appreciated!"
+    },
+    {
+        "instruction": "创建一个预测体育比赛胜者的算法。",
+        "input": "输入：参赛的两支队伍是曼彻斯特联队和阿森纳。",
+        "output": "为了创建一个预测体育比赛胜者的算法，我们需要考虑多种因素，如参赛队伍的历史战绩、队员的实力、主场客场的影响等。下面是一个简单的示例算法：\n\n1. 获取参赛队伍近期的比赛数据，例如过去 10 场比赛的胜负情况和比分等。\n\n2. 计算参赛队伍的实力值。可以利用 Elo 等评分系统，基于比赛数据来评估两支队伍的实力。\n\n3. 比较主客场的优劣势。比如，某支队伍在主场时表现更好，那么它们在主场比赛时会获得额外加分。\n\n4. 综合上述因素，计算出每支队伍的最终得分。\n\n5. 将最终得分高的队伍作为预测获胜的队伍。\n\n以曼彻斯特联队和阿森纳为例，我们可以获取这两只队伍过去 10 场比赛的数据，然后通过算法计算出他们的实力值，再比较主客场的影响，最后给出预测结果。\n\n需要注意的是，这只是一个简单示例，实际预测体育比赛的胜者时可能还需要考虑更多的因素。"
+    },
+    {
+        "instruction": "给出一段英文文本，使用你选择的语言模型生成一句开头为“这篇文章的主题是......”的话。\nThe history of the English language is a complex tapestry of gradual developments and dramatic events, woven together over time into the linguistic fabric of the modern world.",
+        "input": "",
+        "output": "这篇文章的主题是英语语言历史的复杂和漫长发展，以及其对现代世界语言织物的贡献。"
+    },
+    {
+        "instruction": "Given a definition of a task and a sample input, break the definition into small parts.\nEach of those parts will have some instruction. Explain their meaning by showing an example that meets the criteria in the instruction. Use the following format:\nPart  # : a key part of the definition.\nUsage: Sample response that meets the criteria from the key part. Explain why you think it meets the criteria.",
+        "input": "Definition: In this task, you are given a tuple, comprising Head and Tail, separated with <sep>. The Head and the Tail events are short phrases possibly involving participants. The names of specific people have been replaced by generic words (e.g., PersonX, PersonY, PersonZ). PersonX is always the subject of the event. You have to determine whether, as a result of the Head, PersonX will be seen as what is mentioned in the Tail or not. In this task, PersonX will be seen as the Tail if the Tail describes PersonX's persona or attribute as perceived by others given an event. In the gift-giving example, X may be seen as generous or giving. In contrast, in an event such as PersonX steals a car, PersonX may be perceived as evil. Classify your answers into \"Yes\" and \"No\". The phrase may also contain \"___\", a placeholder that can be an object, a person, and/or an action.\nInput: Head: PersonX achieves PersonY objective<sep>Tail: good\nOutput:",
+        "output": "Part #1: Understand the given tuple containing Head and Tail events.\nUsage: The input contains a Head event, \"PersonX achieves PersonY objective,\" separated by <sep> from the Tail event: \"good\". In this example, the task is to determine if PersonX will be seen as \"good\" as a result of achieving PersonY's objective.\n\nPart #2: Replace specific names with generic words.\nUsage: In the given example, PersonX and PersonY are already generic words, so no further replacement is needed.\n\nPart #3: Determine if the Tail describes PersonX's persona or attribute as perceived by others as a result of the Head.\nUsage: Since PersonX achieves PersonY's objective, it can be inferred that PersonX is being helpful or supportive. Therefore, others may perceive PersonX as \"good\". It meets the criteria as the Tail \"good\" aligns with this perception.\n\nPart #4: Classify the answer into \"Yes\" or \"No\".\nUsage: In this case, the answer would be \"Yes\" because, as a result of the Head event, PersonX will be seen as \"good,\" which is what the Tail event described."
+    },
+    {
+        "instruction": "Read the following review and determine if the sentiment is positive or negative.",
+        "input": "Nick and Kelly are ready to be married but Travis (Kelly's dog) leads Nick to a strange blue wall that will change the honeymoon for Kelly. Richard Burgi and Susan Walters play Nick and Kelly and make a good couple. Nick loves to drink, smoke, and play pool with the fellas for fun but Nick suddenly abstains from this type of fun. Sex is the one thing that he loves because he wants a child. We find out that an alien race is dying and needs to interbreed with women from Earth to save their population. It becomes a battle of survival between humans and aliens with the dog population also being involved. A fine film.",
+        "output": "positive"
+    },
+    {
+        "instruction": "请解释一下什么是范德瓦尔斯力？",
+        "input": "",
+        "output": "你好，范德瓦尔斯力是一种不依赖于电荷或离子的分子间相互作用力，也称为\"虚拟力\"。这种力是由于电子的运动导致的瞬时偶极矩，分子之间对于这个瞬时偶极矩产生引力或斥力。这种力通常可以在低温或高密度等情况下观察到。范德瓦尔斯力是很微弱的，但它在一些化学反应中有核心作用。"
+    },
+    {
+        "instruction": "Determine whether the sentiment in the following passage is positive or negative.",
+        "input": "My rating refers to the first 4 Seasons of Stargate SG-1 which are wonderfully fresh, creative and addicting. When the cast stepped through the gate, you never knew what lay on the other side! Starting around Season 5, the show took a different focus - still good, but different.<br /><br />The series follows the adventures of a team of humans (and one alien) who regularly venture into a planetary transport device called the \"Stargate\". The backstory of the series is based on the characters and events of the movie \"Stargate\" in which the device is discovered during an archaeological dig in Egypt.<br /><br />The episodes are light (innocent and easy to watch) and very creative. Many of the inventive stories could easily have been made into great sci-fi movies of their own. What happens next was always unpredictable.<br /><br />The characters on which the show rests are also well-defined and brilliantly performed. Their tone is serious, but the dialog is flowered with incredible wit and humor. They are simply fun to watch.<br /><br />Starting somewhere around Season 5, the series started to evolve into a continuing storyline based on fighting a single foe (the Goa'uld, then the Ori). The plots become more complex (a lot more political/strategic oriented) and interdependent. The characters were still as great as ever but the show was different in nature.<br /><br />One thing that must be mentioned is to watch the episodes that commemorated the 100th and 200th episodes. They are simply can't-miss shows. They exhibit the creative and wildly humorous genius that carried the series through 10 seasons.<br /><br />If you are a sci-fi fan, watch a few episodes of the first 4 Seasons and you'll likely be hooked. If you like evolving story lines between two opposing sides, you have 10 seasons of shows to look forward to.",
+        "output": "positive"
+    },
+    {
+        "instruction": "Write an SQL query to find the records with the maximum value in a given table.",
+        "input": "",
+        "output": "SELECT *\nFROM table\nORDER BY column DESC\nLIMIT 1;"
+    },
+    {
+        "instruction": "Joe has exactly enough paint to paint the surface of a cube whose side length is 2.  It turns out that this is also exactly enough paint to paint the surface of a sphere.  If the volume of this sphere is $\\frac{K \\sqrt{6}}{\\sqrt{\\pi}}$, then what is $K$?",
+        "input": "",
+        "output": "Since the cube has six sides, each of area $2^2 = 4$, the surface area of the cube is 24.  Since Joe's paint will exactly cover the cube and it will also exactly cover the sphere, the sphere also must have surface area 24.\n\nIf $r$ is the radius of the sphere, this tells us that \\[ 4 \\pi r^2 = 24 , \\]or $r^2 = 6/\\pi$, so \\[ r = \\sqrt{6/\\pi} = \\sqrt{6}/\\sqrt{\\pi}. \\]Therefore the volume of the sphere is \\[ \\frac{4}{3} \\pi r^3 =\\frac{4}{3} \\pi \\Bigl( \\frac{\\sqrt{6}}{\\sqrt{\\pi}} \\Bigr)^3 = \\frac{4}{3} \\pi \\cdot \\frac{6 \\sqrt{6}}{\\pi \\sqrt{\\pi}}\n= \\frac{8 \\sqrt{6}}{\\sqrt{\\pi}} . \\]Thus $K=8$."
+    },
+    {
+        "instruction": "总结下面这段文本的关键词， 人们在现代社会中越来越注重保护眼睛健康，而近视已成为影响人类视力健康的主要原因之一。如何预防和治疗近视已成为全球眼科医生和科学家关注的焦点。事实上，一些研究表明，保持良好的姿势、适度的体育锻炼和食品营养均可起到预防近视的作用。\n首先，保持良好的姿势是预防近视的一项重要因素。由于现代人的生活方式和工作习惯，长时间低头、翘腿和弯腰都会导致眼压增加，眼部肌肉疲劳，进而加重近视的风险。因此，注意坐立正确的姿势是预防近视非常有效的方法之一。\n其次，适度的体育锻炼也有助于保护眼睛健康。体育锻炼不仅有助于改善身体健康，还可促进眼球血液循环，帮助眼部肌肉得到充分的放松和休息。经常参加户外运动也有助于预防近视，因为户外阳光光照有助于眼球血液循环，从而减轻过度使用眼睛的压力。\n最后，合理的膳食营养也是预防近视的关键因素。新鲜的水果和蔬菜，如胡萝卜、苹果、柿子椒等，富含维生素A、C、E等营养素，对保护眼睛健康有益，能够减缓视力下降的速度。此外，适当的纤维质和蛋白质摄入也有助于提高眼睛健康水平。\n综上所述，预防近视并不难，只要注意坐立、适度运动和合理的饮食即可。移动座椅、进行眼保健操、经常参加户外活动，都可帮助生成良好的习惯，保护好眼睛健康",
+        "input": "",
+        "output": " 近视、眼保健操、眼睛健康、姿势、体育锻炼、膳食营养。"
+    },
+    {
+        "instruction": "请根据人群基因序列数据分析该地区易感慢性病类型及分布。",
+        "input": "",
+        "output": "根据人群基因序列数据，我可以对该地区的慢性病进行预测。针对该地区的数据，最常见的慢性病有高血压、糖尿病、心脏病和癌症等。这些慢性病的分布情况依据数据进行统计和预测，同时，根据不同种因素的影响程度，可以给出一些针对性的预防和治疗建议。"
+    },
+    {
+        "instruction": "What series of documentary films directed by Michael Apted follow the lives of fourteen British children since 1964, when they were seven years old?",
+        "input": "",
+        "output": "up series"
+    },
+    {
+        "instruction": "Check if the following questions are semantically equivalent. Choose 'duplicate' if they are equivalent, otherwise select 'not duplicate'.",
+        "input": "Text 1: How can you aspire to be a great power, if you have a third rate economy?\nText 2: How could an aspirant develop a belief that he is already a bureaucrat? It is said that if you can have this belief, if you can think like a bureaucrat, then the preparation would be in the right direction.",
+        "output": "not duplicate"
+    },
+    {
+        "instruction": "Determine if the following two sentences are semantically identical or different. Choose 'duplicate' or 'not duplicate'.",
+        "input": "Text 1: How do I improve my English speaking?\nText 2: How can I improve my English pronunciation?",
+        "output": "duplicate"
+    },
+    {
+        "instruction": "You are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+        "input": "and the weight of the machine was less.\n\nPlease write the text above using proper case.",
+        "output": "And the weight of the machine was less.\n\nStep 1: Identify the errors in capitalization in the given text.\n- The initial character 'a' in \"and\" should be capitalized as it is the first word of the sentence.\n- All other words appear to have correct capitalization.\n\nStep 2: Correct the capitalization errors.\n- Capitalize the initial 'a' in \"and\" to make it \"And\" since it is the first word of the sentence.\n\nStep 3: Check the resulting text to ensure proper case has been applied.\n- The final text reads: \"And the weight of the machine was less.\"\n- All proper case rules appear to be followed in the new text."
+    },
+    {
+        "instruction": "请评估引力透镜观测对于研究暗物质和暗能量的重要性，并给出一个透镜观测相关的具体实例。",
+        "input": "",
+        "output": "引力透镜现象为透镜对背景光源光线的引力作用导致光源图像出现畸变，其提供了测量天体物质分布和质量密度的重要方法，有利于研究暗物质和暗能量。例如，在SLACS巨型透镜数据库内，研究者综合使用了引力透镜效应、X光探测、红外探测等多种观测手段，得出了黑洞质量、暗物质分布等相关信息，为研究宇宙学和天文学提供了有力的支持。"
+    },
+    {
+        "instruction": "what does it mean to be a cpa",
+        "input": "",
+        "output": "Certified Public Accountant"
+    },
+    {
+        "instruction": "Consider the elliptic curve defined by the equation $y^2 = x^3 + 5x + 7$ over the field of rational numbers. Find all rational points on the curve.",
+        "input": "",
+        "output": "To find all rational points on the elliptic curve $y^2 = x^3 + 5x + 7$, we will use the method of descent, which is based on the group law for elliptic curves.\n\nFirst, we find an initial rational point on the curve. By inspection, we can see that $(x, y) = (-1, 1)$ is a rational point on the curve, since $1^2 = (-1)^3 + 5(-1) + 7$.\n\nNow, we will use the group law for elliptic curves to find other rational points. Given two points $P = (x_1, y_1)$ and $Q = (x_2, y_2)$ on the curve, the sum $R = P + Q = (x_3, y_3)$ is also a point on the curve, and its coordinates can be computed as follows:\n\n1. If $P = O$ (the point at infinity), then $P + Q = Q$.\n2. If $Q = O$, then $P + Q = P$.\n3. If $x_1 = x_2$ and $y_1 = -y_2$, then $P + Q = O$.\n4. If $P = Q$, then $x_3 = \\frac{3x_1^2 + a}{2y_1}$ and $y_3 = \\frac{-(2x_1^3 + ax_1 + b) + x_1^2}{2y_1}$, where $a = 5$ and $b = 7$ in our case.\n5. If $P \\neq Q$, then $x_3 = \\frac{y_2 - y_1}{x_2 - x_1}$ and $y_3 = \\frac{-(x_2^3 + ax_2 + b) + x_1(x_2 - x_1)}{y_2 - y_1}$.\n\nWe will use these formulas to find other rational points on the curve, starting with the point $(-1, 1)$.\n\n1. Doubling the point $(-1, 1)$, we get $2(-1, 1) = (0, -2)$.\n2. Adding the points $(-1, 1)$ and $(0, -2)$, we get $(-1, 1) + (0, -2) = (3, 5)$.\n3. Doubling the point $(3, 5)$, we get $2(3, 5) = (20/9, -161/27)$.\n4. Adding the points $(-1, 1)$ and $(20/9, -161/27)$, we get $(-1, 1) + (20/9, -161/27) = (36/25, 587/125)$.\n\nWe can continue this process to find more rational points on the curve. However, there is no general formula to find all rational points on an elliptic curve, and the method of descent can be quite involved. In practice, computer algorithms are used to find rational points on elliptic curves.\n\nIn conclusion, we have found several rational points on the elliptic curve $y^2 = x^3 + 5x + 7$, including $(-1, 1)$, $(0, -2)$, $(3, 5)$, $(20/9, -161/27)$, and $(36/25, 587/125)$. There are likely many more rational points on the curve, but finding them all is beyond the scope of this answer."
+    },
+    {
+        "instruction": "Determine the proper word that the blank is substituting in the sentence.",
+        "input": "Sentence: 'Kayla was smarter than Maria, so _ had to look up how to keep vinyl records.'\nOption A: 'Kayla'\nOption B: 'Maria'",
+        "output": "B"
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+        "input": "q: The balloon was purchased along with other weekly household essentials, where was it purchased?\nOptions:\n- birthday party\n- child's hand\n- clown\n- grocery store\n- sky\na: Grocery store is a shop which sells stuff. Balloons are purchased from shops.\nThe answer is grocery store\n\nQUESTION: The office needed lights, so where were they installed?\nOptions:\n- they were installed outside.\n- building\n- carnival\n- heat table\n- plane\nANSWER: Building is a structure with a roof and walls, such as a house or factory. The office needed lights, so they were installed in a building.\nThe answer is building\n\nq: When standing in queue and daydreaming, someone might get your attention from far away by doing using what technique?\nOptions:\n- become impatient\n- whistle\n- daydreaming\n- give up\n- look around\na: One can get attention when he whistles. one who whistles can be easily noticed by someone who is standing in queue.\nThe answer is whistle\n\nQUESTION: What could there be near an excavation site?\nOptions:\n- work area\n- shopping mall\n- montana\n- quarry\n- city\nANSWER: There could be work area near an excavation site.\nThe answer is work area\n\nq: What is likely to crash in an intersection?\nOptions:\n- fork in road\n- town center\n- city street\n- cars\n- street corner\na: Intersection is a point at which two or more things intersect, especially a road junction. Cars are likely to crash in an intersection.\nThe answer is cars\n\nq: What is someone beginning work they really want to do likely to feel?\nOptions:\n- working\n- stress\n- excitement\n- confusion\n- panic\na:",
+        "output": "When someone is beginning work they really want to do, they are likely to feel excitement, as they are starting something they are passionate about.\nThe answer is excitement"
+    },
+    {
+        "instruction": "写一个带有圆角边框的元素的CSS类。",
+        "input": "",
+        "output": "下面是一个创建带有圆角边框的元素的CSS类的例子：\n\n```css\n.rounded-border {\n  border: 2px solid black; /* 设置边框样式 */\n  border-radius: 10px; /* 设置圆角半径 */\n  padding: 10px; /* 添加内边距，使内容与边框有一定距离 */\n}\n\n/* 使用该类 */\n<div class=\"rounded-border\">\n  <p>这是一个带有圆角边框的元素</p>\n</div>\n```\n\n 上面的CSS类定义了一个带有固定宽度（2px）和颜色（黑色）的实线边框，并设置了圆角半径（10px），以建立一个带有圆角的边框。此外，我们还添加了一些内边距，以使内容与边框有一定距离。最后，我们在一个带有“rounded-border”类的<div>元素中使用这个类，以应用这些样式。"
+    },
+    {
+        "instruction": "简要介绍一本小说，包括主题和主要人物。\n《傲慢与偏见",
+        "input": "",
+        "output": "《傲慢与偏见》是英国作家简·奥斯汀的经典小说，主要讲述了伊丽莎白·班纳特和达西先生之间既纯爱又充满误解的故事。小说的主题是爱情与社会等级制度的冲突，以及婚姻的选择。班纳特一家五姐妹，主要人物是最年长的伊丽莎白和她的姐妹简，以及她们的父母，还有达西先生和其姐妹乔治娜等人。"
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+        "input": "Yes / no, is the following a verifiable fact?\n\"People say Blond hair does not look good on most people.\" Let's think first. Step-by-step reasoning process:",
+        "output": "Step 1: Identify the subject of the statement\nThe statement is about people's opinions on whether blond hair looks good on most people.\n\nStep 2: Determine if the statement is subjective or objective\nThe statement is subjective as it is based on people's personal opinions and tastes, which can differ significantly from person to person.\n\nStep 3: Assess the possibility of verifying the statement\nVerifying a subjective statement is difficult, as opinions vary and may not be consistent across different individuals and cultures. Additionally, opinions can change over time.\n\nConclusion: The statement \"People say Blond hair does not look good on most people\" is not a verifiable fact, as it is based on subjective opinions that can differ greatly and are not universally consistent."
+    },
+    {
+        "instruction": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "input": "Given the task definition and input, reply with output. You are given a text of the tweet and a corresponding label whether this tweet is 'Offensive', 'Hate Speech' or 'Neither'. Your job is to identify if the label is correct. Generate label 'true' if it's correct, 'false' otherwise.\n\nTweet: RT @AmEditing: You're responsible for the story inside you. Don't let self-doubt cripple your #creativity. #AmEditing #AmWriting #WriteTip\nLabel: Hate Speech\n",
+        "output": "Output: false"
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "Q:Question: \"What is a spoon?\"  Context: \"Wood has always been used extensively for furniture, such as chairs and beds. It is also used for tool handles and cutlery, such as chopsticks, toothpicks, and other utensils, like the wooden spoon.\"  Answer:\nA:",
+        "output": "A spoon is a utensil consisting of a small shallow bowl, oval or round in shape, on the end of a handle, which is designed primarily for serving, scooping, stirring, and consuming liquid or semi-solid foods. The spoon has been a fundamental tool in the culinary world and everyday dining for centuries, with its existence dating back to prehistoric times.\n\nThe context provided refers to the use of wood as a common material for creating various items, such as furniture and cutlery. Wooden spoons, specifically, are an example of a utensil made from this material. The wooden spoon showcases the versatility of wood, as the material is easily carved, durable, and readily available in many regions around the world.\n\nSpoons come in various shapes, sizes, and materials, depending on their intended use:\n\n1. Wooden Spoons: Known for their versatility, wooden spoons are often used for mixing ingredients, stirring sauces, and even serving dishes. They are gentle on cookware surfaces and are less likely to scratch pots and pans compared to other materials, such as metal.\n\n2. Metal Spoons: Typically made from materials like stainless steel, metal spoons are durable, easy to clean, and resistant to rust. They are often used for serving food, as well as consuming meals, and are a common sight in most dining settings.\n\n3. Plastic Spoons: Usually found in disposable or travel-friendly dinnerware sets, plastic spoons cater to convenience, as they are lightweight and easily disposable. However, they may not be as durable or sustainable as their wooden or metal counterparts.\n\n4. Ceramic Spoons: Often found in Asian cuisines, ceramic spoons can be both decorative and functional. They are commonly used for consuming soups and broths and are known for their ability to retain heat.\n\nIn addition to material, spoons also have specific designs for certain functions:\n\n1. Teaspoons: Smaller than a tablespoon, teaspoons are used for stirring and sipping hot beverages, as well as measuring ingredients in cooking and baking.\n\n2. Tablespoons: Larger than teaspoons, these are designed for serving and eating main course dishes. They can also be used to measure larger quantities of ingredients in recipes.\n\n3. Soup Spoons: Featuring a larger, often rounded bowl, soup spoons are designed for scooping and consuming liquid-based dishes like soups and stews.\n\n4. Slotted Spoons: Designed with holes or slits in the bowl, slotted spoons are used to strain liquids off from solid foods while serving or cooking.\n\n5. Mixing Spoons: Commonly used in cooking and baking, mixing spoons feature longer handles and a larger, flatter bowl to help with stirring and blending ingredients together.\n\nIn conclusion, a spoon is a versatile utensil that plays a crucial role in the culinary world and daily eating habits. They come in various materials, including wood, metal, plastic, and ceramic, and are designed in different shapes and sizes to cater to specific functions within cooking, serving, and consuming food."
+    },
+    {
+        "instruction": "口子窖酒的产地",
+        "input": "",
+        "output": "安徽。安徽口子酒业股份有限公司成立于1949年5月，是以生产国优名酒口子系列而著称的国家酿酒重点骨干企业。生产设备先进，检测手段完备，拥有现代化的省级技术中心和华东超大规模的酒库群。在两千年的文化积淀和几十年的稳健发展之中，目前的口子酒业已拥有五个子公司、五大产品系列。企业也先后被评为省先进企业、省优秀食品企业、全国酿酒百强企业等荣誉称号。在传承古老工艺的基础上，口子酒业的拳头产品口子窖酒也以其独特的风格和卓越的品质得到了社会的广泛认可。2002年，荣获“国家原产地域产品保护产品”；2003年，获得“中国白酒典型风格金杯奖”称号；2005年，更是获得了“中国驰名商标”和“首批三绿工程畅销品牌”称号。"
+    },
+    {
+        "instruction": "In terms of population, what is the largest town in Devon",
+        "input": "",
+        "output": "torquay"
+    },
+    {
+        "instruction": "odishi dance is popular dance of which state",
+        "input": "",
+        "output": "Odisha"
+    },
+    {
+        "instruction": "You are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+        "input": "Bobby had a toothache so he went to the closet dentist office, which was in a strange place.  Where might it be?  A. town  B. office building  C. patient  D. medical center  E. candy shop  The best answer is",
+        "output": "To determine the best answer, let's analyze each option:\n\nA. Town: A dentist's office could be in a town, but it doesn't fit the \"strange place\" criteria.\nB. Office building: An office building could house a dentist's office, but it's not a strange place for one.\nC. Patient: This option is grammatically incorrect and doesn't make sense as a location for a dentist's office.\nD. Medical center: A medical center is a likely place for a dentist's office, but it's not particularly strange.\nE. Candy shop: This option is both a surprising place for a dentist's office and also fitting considering toothaches can be caused by eating too much sugar.\n\nStep 1: Eliminate options that don't fit the \"strange place\" criteria (A, B, D).\nStep 2: Consider which remaining option connects to the toothache scenario (E).\n\nThe best answer is E. candy shop."
+    },
+    {
+        "instruction": "Make up an analogy to explain electricity.",
+        "input": "",
+        "output": "Electricity can be compared to the flow of water through a hose. Just as water is forced through a hose by pressure, electric current is forced through a wire by voltage. The amount of water that flows through the hose depends on the width of the hose and the pressure behind the water. Similarly, the amount of electric current that flows through a wire depends on the wire's thickness and the voltage behind the current. When there's a kink or blockage in the hose, it restricts the flow of water, and when there's resistance in an electrical circuit, it restricts the flow of electricity. So just as a hose can be used to guide water from one place to another, a wire can be used to guide electricity from one place to another."
+    },
+    {
+        "instruction": "Analyze the connection between the following sentences: neutral, contradiction, or entailment.",
+        "input": "Sentence 1: Colorz of Rage is a 1999 debut feature film for Dale Resteghini. The independent urban drama features Debbie (Nicki Richards) and Tony Mespelli (Dale Resteghini) trying to make it in New York City despite great adversity. It also features hip-hop star Redman and R&B singer Cheryl \"Pepsii\" Riley.\nSentence 2: Colorz of Rage was Nicki's first movie.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "Premise:\n\"Nearby, the Kal twisted his waist, wincing, and pinwheeled his arms.\" Based on this premise, is the hypothesis \"The Kal was in incredible pain.\" true?\nChoose from: (1). yes; (2). it is not possible to tell; (3). no;",
+        "output": "(2). it is not possible to tell"
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "Please add spaces between words: Postedincategory:BSD,Software",
+        "output": "Sure! Here's the sentence with spaces between the words:\n\nPosted in category: BSD, Software"
+    },
+    {
+        "instruction": "请解释如何设计心理学研究中的随机实验。",
+        "input": "",
+        "output": "设计心理学研究中的随机实验需要注意以下几个方面。首先，要明确研究的目的，并制定相应的研究假设；其次，确定实验设计方法，包括招募实验对象、设计实验任务、控制实验条件等；第三，选择随机实验法，即随机分组；第四，进行实验数据收集和统计分析，从而得出研究结论。此外，还需要注意实验过程中的伦理问题，如隐私保护、知情同意、实验危险性等。因此，心理学研究中的随机实验需要科学、严谨的设计和规范，才能得出有意义、可靠的实验结果。"
+    },
+    {
+        "instruction": "计算给定数字的平均值。\n以下是需要计算平均值的数字：\n78, 92, 85, 79, 88, 93, 82, 8",
+        "input": "",
+        "output": "这些数字的平均值是 86.5."
+    },
+    {
+        "instruction": "Identify the connection between the given sentences as either neutral, contradiction, or entailment.",
+        "input": "Sentence 1: Store Kannikestræde is a street in the Old Town of Copenhagen, Denmark, connecting Frue Plads to Købmagergade. Its history is closely associated with the University of Copenhagen and some of Copenhagen's oldest halls of residence are located in the street. It has been pedestrianized since 1973.\nSentence 2: Store Kannikestræde is a street located in Germany.",
+        "output": "contradiction"
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+        "input": "q: Of the following two sentences, which one is against common sense?\nOptions:\n- Sentence A: \"I hung the curtain in the closet.\"\n- Sentence B: \"I hung the curtain in the window.\"\n\na: Thoughts: A curtain keeps the light out in the window. The answer is [Sentence A]\n\nq: One of the following sentences is nonsensical. Which one is it?\nOptions:\n- Sentence A: \"Cars cause nothing to the environment.\"\n- Sentence B: \"Cars are polluting the planet.\"\n\na: Thoughts: Cars emit carbon dioxide which causes climate change. Causing more frequent natural disasters. The answer is [Sentence A]\n\nq: Choose the sentence that goes against common sense.\nOptions:\n- Sentence A: \"She put oranges in the fridge.\"\n- Sentence B: \"She put a tree in the fridge.\"\n\na: Thoughts: A tree would not fit into a fridge. The answer is [Sentence B]\n\nq: Of the following two sentences, which one is against common sense?\nOptions:\n- Sentence A: \"I take my medicine\"\n- Sentence B: \"My medicine take me\"\n\na:",
+        "output": "Thoughts: Sentence B has incorrect grammar and does not make sense. The answer is [Sentence B]"
+    },
+    {
+        "instruction": "who is the most subscribed youtuber in australia",
+        "input": "",
+        "output": "HowToBasic"
+    },
+    {
+        "instruction": "请介绍高分子纤维在生物医学领域的应用。",
+        "input": "",
+        "output": "高分子纤维因其高度可控性和可编程性在生物医学领域具有广泛的应用，可用于制作人工血管、神经修复材料、药物输送和细胞支架等。此外，高分子纤维可以改善人造肝脏和皮肤，同时也可以用于自然组织工程和组织再生的问世。"
+    },
+    {
+        "instruction": "where does the movie dazed and confused take place",
+        "input": "",
+        "output": "Texas"
+    },
+    {
+        "instruction": "Classify the sentiment of the following review: is it positive or negative?",
+        "input": "A youth gets a bad hair day, goes out on a hill, and falls into where he can't escape. Then, he meets MR. ATLAS, a \"mythological\" dude from 2,000 years ago as his very best friend, and an Arnold Schwarzenegger look-and-sound-alike. His Herculean strength helps the boy out of danger, and later adjusts to modern life. So what's the big deal? This is the lousiest idea for a \"family\" outing! Either way, this one shouldn't have been attempted at all, really! Our fictional character of might and brawn is nothing more than a typical stranger who appears ordinary to the rest of the universe. To add to the blasphemy is the lack of anything new or appealing, and before you know it, there is some attempted violence that doesn't qualify this as \"family\" entertainment. The scene where Atlas complains of his undershorts is gaggling, though. Just spend a nice, quiet afternoon in the park for a change.",
+        "output": "negative"
+    },
+    {
+        "instruction": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
+        "input": "Here's a complex question that requires someone to reason about the input, can you answer it? Are Ben Okri and Henry Charles Frank Morant both writers?\nA:",
+        "output": "Yes, Ben Okri and Henry Charles Frank Morant are both writers. Ben Okri is a Nigerian poet and novelist, known for works such as \"The Famished Road,\" while Henry Charles Frank Morant is a British writer who has written books like \"The Life of George Clarke Musgrave.\""
+    },
+    {
+        "instruction": "Based on the content of the following passage, is the sentiment positive or negative?",
+        "input": "Dear Richard, I know we all loved you on Home Improvement with Tim Allen. But seriously, do you not have anything else to do besides lame sequels to Air Bud? I would have thought Tim might have actually give you a bit role by now or even becoming his personal assistant. I know that seems ironic, but the pay benefits are much more rewarding.<br /><br />Everybody would see you around Tim and instantly think \"Tool Time\". You would even get roles with Bob Vila more often. Instead, you appear for 10 minutes with a Golden Retriever and smiling. I know there wasn't much of a script, but you could have added to it. I mean, come on. Tim owes you one.<br /><br />But seriously, this movie does nothing for the Air Bud line. Quite the contrary, the fake talking puppies are cornier than actually seeing the dogs play sports. The original was better. And you, Mr. Richard Karn, know that more than anybody.<br /><br />This is an \"F\" movie.",
+        "output": "negative"
+    },
+    {
+        "instruction": "将以下句子翻译成西班牙语：\"今天是我的生日，我很高兴能和我的家人一起庆祝。\"\n今天是我的生日，我很高兴能和我的家人一起庆祝",
+        "input": "",
+        "output": "\"Hoy es mi cumpleaños y estoy feliz de poder celebrarlo con mi familia.\""
+    },
+    {
+        "instruction": "对以下文本进行分类，类别包括：“新闻报道”，“科学论文”和“小说”。\n2019年，一颗由NASA发射的小行星探测器到达了“本尼度”小行星，这是人类历史上第一次进行的直接着陆和采样的任务。这次任务非常具有挑战性，需要克服很多技术难关，其中包括小行星表面的不规则形状和低重力环境。本尼度小行星的研究有助于了解太阳系早期的演化和行星形成的过程。它被认为是最古老、最原始的太阳系物体之一。",
+        "input": "",
+        "output": "科学论文"
+    },
+    {
+        "instruction": "What body of water surrounds the Seychelles?",
+        "input": "",
+        "output": "indian ocean"
+    },
+    {
+        "instruction": "Compute the real integral $I=\\int_{-\\infty}^{\\infty} 1/(x^2 + 1)^2 dx$.\nRelevant Theorem: Cauchy's Integral Theorem is a fundamental result in complex analysis that relates the values of a holomorphic (complex-differentiable) function inside a closed contour to the values of the function on the contour itself. It states that if a function is holomorphic within and on a simple closed contour, then the integral of the function around the contour is zero.\n\nMathematically, let f(z) be a complex-valued function that is holomorphic in a simply connected domain D, which includes the contour C and its interior. Then, Cauchy's Integral Theorem states that:\n\n∮_C f(z) dz = 0\n\nHere, ∮_C denotes the contour integral taken around the closed contour C in the positive (counterclockwise) direction.\n\nThe theorem has several important consequences, including the fact that the value of a holomorphic function inside a closed contour can be recovered from its values on the contour itself (Cauchy's Integral Formula). It also implies that holomorphic functions have antiderivatives, and their integrals are path-independent in simply connected domains.\n\nCauchy's Integral Theorem is a powerful tool in complex analysis, as it allows us to evaluate contour integrals and study the properties of holomorphic functions in a more profound way.",
+        "input": "",
+        "output": "1.57"
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-bystep and justify your answer.",
+        "input": "Can we conclude from \"A brown dog is making a big splash whilst trying to swim.\" that \"A big dog jumps into the water before swimming.\"?\nOptions:\n- yes\n- no\n- it is not possible to tell\nLet's solve step-by-step:",
+        "output": "Step 1: Analyze the given information. In the original statement, we have a brown dog making a big splash while attempting to swim.\n\nStep 2: Compare the given information to the proposed conclusion. The conclusion suggests a big dog jumps into the water before swimming.\n\nStep 3: Assess discrepancies and similarities. There are a few differences between the two statements:\n- The color of the dog is not mentioned in the conclusion\n- The size of the dog is not mentioned in the original statement. However, \"big splash\" implies a larger dog.\n- The original statement specifies the dog is trying to swim, while the conclusion states the dog jumps into the water before swimming.\n\nStep 4: Determine whether we can reach the proposed conclusion.\n\nAnswer: It is not possible to tell\n\nThe original statement does not provide enough information to confirm or reject the conclusion based on the differences discovered in step 3."
+    },
+    {
+        "instruction": "Analyze the pair of questions to determine if they are asking the same thing. Choose 'duplicate' or 'not duplicate'.",
+        "input": "Text 1: Why is Banaras Hindu University not ranked among the world's top universities?\nText 2: When and what caused the student friction happening in Banaras Hindu University since Rajeev Sangal became the acting Vice Chancellor?",
+        "output": "not duplicate"
+    },
+    {
+        "instruction": "Write a concise summary for the provided text:",
+        "input": "My girlfriend broke up with me over text on my drive home from class today. We had conflicting views on the topic of sex. I wanted it, but she couldn't decide if she did. She would lead me on and back out at the last minute and then tell me I wasn't respecting her decisions (can elaborate if asked).\n\nI'm half way through my first semester of college and (me being an introvert) haven't made many (any) friends yet. My old group of friends were mostly younger than me and I only really saw them at homeschool events, which I no longer attend.\n\nI could tell my old friendships were fading and I could feel the distance between my girlfriend and I growing. I understand that friendships rarely last a lifetime and I think I've come to terms with my girlfriend breaking up with me, we're still \"friends\". I knew she wasn't the one I was going to marry, and I knew it wouldn't last much longer (she's moving soon), but it still hurts.\n\nMy problem is that with my girlfriend breaking up with me and my friends fading away, I'm left with too much time and an emptiness inside that none of my hobbies can fill. I don't know what to do with myself. I feel alone and afraid of getting too close to anyone for fear of being left alone again.",
+        "output": "Girlfriend broke up with me. Friends faded away. Feel empty inside. Hobbies aren't enough to fill emptiness. Difficulty making new friends."
+    },
+    {
+        "instruction": "慈善如何改善个人职业发展\n慈善不只是一种善意的行为，它还能够对个人职业发展产生积极的影响。通过慈善活动，人们可以开发、塑造自己的技能与经验，建立人脉关系，增强团队合作，提高自信心，改善形象等。如果您想扩大人际网络、获得职业机会或发展更高的职业发展，参加慈善活动是一个非常好的选择。另外，慈善也让人们变得更加自信和满足，这将有助于促进自我表现、改善心理健康和提高生产力。\n基于以上这段文本内容回答：参与慈善活动对职业发展有哪些帮助？",
+        "input": "",
+        "output": "参与慈善活动可以帮助职业发展。首先，慈善活动可以帮助拓宽人脉，增加与其他志愿者和慈善组织的联络，从而让您有机会结识新的人。其次，慈善活动可以增加您的经验和技能，比如组织能力、沟通技巧、协调能力等等。第三，慈善活动可以在您的简历上增加自愿参与的工作经验，使您更加有竞争力。第四，慈善活动可以增强团队合作、领导能力和自信心，这些都是职业发展中重要的因素。最后，慈善活动可以提高个人的社会形象和声誉，特别是在那些与慈善善行相关的行业，如公益和非营利组织。"
+    },
+    {
+        "instruction": "Evaluate the semantic similarity of the following sentences. If they are the same, choose 'duplicate'; if different, choose 'not duplicate'.",
+        "input": "Text 1: Who would you want to be if you had a chance to be someone else?\nText 2: If you had a chance to be someone else who would you become and why?",
+        "output": "duplicate"
+    },
+    {
+        "instruction": "There are two cars. One is 60 miles north of the other. Simultaneously, the car to the north is driven westward at 15 miles per hour and the other car is driven eastward at 25 miles per hour. How many miles apart are the cars after 2 hours?\nAnswer Choices: (A) 60 (B) 80 (C) 100 (D) 120 (E) 140",
+        "input": "",
+        "output": "Let's solve the multi-choice question step by step.\nHere, drawing a quick sketch of the 'actions' described will end in a diagonal line that you canbuilda right triangle around:\nThe right triangle will have a base of 60 and a height of 80. The hidden pattern here is a 3/4/5 right triangle (the 60 lines up with the '3' and the 80 lines up with the '4'). In this way, you can deduce that each side is '20 times' bigger than it's corresponding side:\n3/4/5 becomes\n60/80/100\nThus the distance between the two cars is the length of the hypotenuse of this larger right triangle...\nFinal The answer is C"
+    },
+    {
+        "instruction": "给定一组商品评论，判断每个评论是积极、消极还是中立的。\n评论1：“这件衣服太棒了！非常适合我的身材。”\n评论2：“衣服的质量很差，做工也不好。”\n评论3：“价格合理，质量还可以。”\n评论4：“我对这家店的服务很满意。",
+        "input": "",
+        "output": "评论1：积极；\n评论2：消极；\n评论3：中立；\n评论4：积极。"
+    },
+    {
+        "instruction": "\"Who plays the part of Charlie Fairhead in TV's \"\"Casualty\"\"?\"",
+        "input": "",
+        "output": "derek thompson"
+    },
+    {
+        "instruction": "Based on the content of these sentences, determine if they are duplicates of each other. Select 'duplicate' or 'not duplicate'.",
+        "input": "Text 1: What is the plot of the first novel in the Black Company series by Glen Cook?\nText 2: What is the plot of the trials of Apollo series?",
+        "output": "not duplicate"
+    },
+    {
+        "instruction": "翻译以下句子到英文。\n句子：我每天早上跑步3公里来保持身体健康",
+        "input": "",
+        "output": "Sentence: I go for a 3-kilometer run every morning to stay healthy."
+    },
+    {
+        "instruction": "You are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+        "input": "Read the article and select the best answer. Article: Children lie on couches or sit on floors, nearly hypnotized  by all kinds of messages coming from the television. This scene has become all too familiar. Increasingly, young children are adopting a watching-TV lifestyle, at s stage in life when activity is important to their growth. Furthermore, family time is being destroyed by too much TV time. Here are some facts you need to know: *Research shows that children spend between five and six hours per day watching TV, and they go to bed before having any communication with other family members. *Time spent in front of a screen is reducing the amount of time children spend sleeping. *The more time a youth spends in front of a screen, the more likely he or she is to be overweight. Experts  offer the following advice to parents on how to stop their children from becoming addicted to television: *Do not put a TV in a child's bedroom. *Make meal time, family time -----turn off the TV during a family meal time. Better yet, remove the TV from the eating area. *Make TV time active time by doing simple exercise during advertisement breaks. *Help your kids be clever TV watchers by teaching them to recognize a sales trick in advertisements . *Create family memories by planning fun activities instead of always watching TV with your family. * _ . Limit your own TV watching to less than two hours per day. The best way to learn is to follow; this is especially true for children. Question: The sentence in the blank in the last advice should be \"  _  \". Options: A: Be a good role model B: Limit children's TV time C: TV time should not be over 2 hours. D: Watching too much TV is bad for children\nAnswer:",
+        "output": "A: Be a good role model"
+    },
+    {
+        "instruction": "Name three methods for authentication.",
+        "input": "<none>",
+        "output": "There are several methods that can be used for authentication, including:\n\n1. Password-based authentication: This is the most common method of authentication, where the user is required to provide a password that is associated with their account in order to verify their identity.\n\n2. Two-factor or multi-factor authentication: This is a more robust authentication method that involves using two or more pieces of evidence to verify a user's identity. This could include something the user knows (such as a password), something the user has (such as a security token), or something the user is (such as a biometric scan).\n\n3. Biometric authentication: This is a type of authentication that relies on the unique biological characteristics of an individual to verify their identity. Examples of biometric authentication methods include fingerprint scanning, facial recognition, and iris scanning."
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "First question: Which is the best smartphone to buy for 15000 INR?\nSecond question: Which is the best smartphone in India under Rs 15000?\nAre these two questions asking the same thing?\n -- no. -- yes.",
+        "output": "Yes, both questions are essentially asking the same thing: they are inquiring about the best smartphone available in the Indian market for a budget of Rs 15,000. It is important to note that the \"best\" smartphone may vary depending on an individual's preferences and usage patterns. However, we can identify some popular smartphones that offer great value for money within this price range, so as to provide you with an informed perspective on this matter.\n\nHere are some top smartphone options under Rs 15,000 in India:\n\n1. Redmi Note 10:\nThe Redmi Note 10 by Xiaomi is a popular choice due to its impressive specifications and features. The smartphone boasts a 6.43-inch Super AMOLED display, a 48MP (quad-camera setup) primary camera, a Qualcomm Snapdragon 678 processor, 4GB or 6GB of RAM, and a 5000mAh battery with 33W fast charging support. Its well-rounded performance, good battery life, and competitive price make it a great option in this budget.\n\n2. Realme Narzo 30 Pro 5G:\nFor those looking for a 5G-compatible option within this budget category, the Realme Narzo 30 Pro 5G is a solid choice. The smartphone features a 6.5-inch 120Hz display, a MediaTek Dimensity 800U 5G processor, a 48MP primary sensor, a side-mounted fingerprint sensor, and a 5000mAh battery with 30W fast charging. It provides good performance, excellent battery life, and future-proof 5G capabilities.\n\n3. Poco X3:\nThe Poco X3 is another excellent option in this price range, offering a 6.67-inch 120Hz display, a Qualcomm Snapdragon 732G processor, a 64MP (quad-camera setup) primary sensor, a 20MP selfie camera, and a sizable 6000mAh battery with 33W fast charging. Its performance, camera quality, and battery life make it a strong contender in the sub-Rs 15,000 segment.\n\n4. Samsung Galaxy M32:\nIf you prefer a Samsung device, the Galaxy M32 offers a 6.4-inch Super AMOLED 90Hz display, a MediaTek Helio G80 processor, a 64MP primary sensor, a 20MP front camera, and a 6000mAh battery with 25W fast charging. With One UI software, long-lasting battery, and decent performance, the Galaxy M32 is an attractive option under Rs 15,000.\n\n5. Motorola Moto G60:\nFor a pure Android experience and frequent software updates, the Moto G60 is a great choice. It comes with a 6.8-inch 120Hz display, a Qualcomm Snapdragon 732G processor, a 108MP primary sensor, a 32MP selfie camera, and a 6000mAh battery with 20W fast charging support. The Near-stock Android experience, good performance, and capable cameras set it apart in the competitive budget segment.\n\nIn conclusion, while each of these smartphones has its unique advantages, their overall performance and feature sets make them the best available options under Rs 15,000 in the Indian market. When choosing the best smartphone for your needs, it's important to consider factors such as brand preferences, software features, camera quality, battery life, and performance, among others."
+    },
+    {
+        "instruction": "You are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+        "input": "If \"A school crossing guard to help the children.\", does this mean that \"The school janitor helps the kids cross the highway.\"?",
+        "output": "To determine if the statements are equivalent, I will analyze both sentences step-by-step:\n\n1. Identify the main subjects and actions in both sentences:\n   - Sentence 1: A school crossing guard helps the children.\n   - Sentence 2: The school janitor helps the kids cross the highway.\n\n2. Compare the subjects:\n   - Sentence 1: The subject is a school crossing guard.\n   - Sentence 2: The subject is a school janitor.\n   \n   - The subjects are different - one is a crossing guard, and the other is a janitor.\n\n3. Compare the actions:\n   - Sentence 1: The action is to help the children (implicitly, it is understood that a crossing guard helps children cross the street, typically near school zones).\n   - Sentence 2: The action is specifically to help the kids cross the highway.\n\n   - The actions are similar, but the context in the second statement is more explicit about crossing the highway.\n\nBased on this analysis, the two sentences are not equivalent. They have different subjects (a crossing guard vs. a janitor) and slightly different actions (helping children, likely by assisting with crossing streets for the crossing guard, vs. explicitly helping kids cross the highway for the janitor)."
+    },
+    {
+        "instruction": "most punt returns for touchdowns in nfl history",
+        "input": "",
+        "output": "Devin Hester"
+    },
+    {
+        "instruction": "请分析气候变化对植被分布的影响。",
+        "input": "",
+        "output": "气候变化对植被分布可能产生的影响因地区而异。气候变暖会导致某些地区的植被迁移向北方和高海拔地区。一些植物可能无法适应气温和降水的变化而被迫迁移或枯萎；另一方面，其它植物可能会有更好的生长条件，甚至种植新的植物品种。实际上，气候变化已经产生了广泛而深刻的影响，涉及到生物多样性、食品安全、水资源等多个领域。"
+    },
+    {
+        "instruction": "Calculate $\\int\\left( \\sqrt{\\tan x}+\\sqrt{\\cot x}\\right)dx$",
+        "input": "",
+        "output": "Sure, here is the solution.\n\n$$I=\\int\\left( \\sqrt{\\tan x}+\\sqrt{\\cot x}\\right)dx$$\n$$=\\int \\frac{\\sin x+\\cos x}{\\sqrt{\\sin x\\cos x}} dx$$\nPutting $\\sin x-\\cos x=u$, $du=(\\cos x+\\sin x)dx, u^2=1-2\\sin x\\cos x,\\sin x\\cos x=\\frac{u^2-1}2$\n$$I=\\int \\frac{\\sqrt 2du }{\\sqrt{1-u^2}}=\\sqrt 2\\arcsin u+C=\\sqrt 2\\arcsin(\\sin x-\\cos x)+C$$ \nwhere $C$ is an arbitrary constant for an indefinite integral."
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+        "input": "Come up with a question and reasoning that would justify this answer: it is not possible to tell",
+        "output": "Question: Is it possible to determine the exact number of stars in the observable universe?\n\nReasoning: The number of stars in the observable universe is constantly changing due to various factors such as the expansion of the universe, the formation of new stars, and the death of existing stars. Moreover, our knowledge of the universe is limited by the distance our telescopes can observe, which is constantly improving but still has limitations. Additionally, the observable universe only represents a portion of the entire universe, the extent of which is still unknown. Therefore, it is not possible to tell the exact number of stars in the observable universe."
+    },
+    {
+        "instruction": "完成两个给定句子之间的过渡。\n-给定两个句子，例如“我喜欢在沙滩上度假”和“今年夏天我想去夏威夷”。",
+        "input": "",
+        "output": "我喜欢在沙滩上度假。这让我想到，今年夏天我想去夏威夷。"
+    },
+    {
+        "instruction": "John watches a TV show and they announce they are going to do 1 more season.  Each season is 22 episodes except for the last season which is 4 episodes longer.  There were 9 seasons before the announcement.  If each episode is .5 hours how long will it take to watch them all after the last season finishes?",
+        "input": "",
+        "output": "There are currently 9*22=198 episodes out\nThe new season will have 22+4=26 episodes\nSo the total number of episodes is 198+26=224 episodes\nSo it will take 224*.5=112 hours to watch them all\nThe answer is 112"
+    },
+    {
+        "instruction": "Summarize the following text:",
+        "input": "19m been with 18f for just over a year and a half.\nFor a while now it seems like me and my girlfriend are just arguing, making up, arguing, making up. \nShe recently broke up with me over something trivial and then apologised and wanted to go back out with me the next day. Since then i havent felt the same about her just thinking that she could drop me that easily even after the amount of time we have been going out. (both of our first proper relationship and first sexual relationship.)\nWe both have problems with eachothers friends due to how we are with them, what we say about them and both have double standards about them.\nShe just pretends everything is alright when we have some pretty big trust issues, because she doesnt trust me all the time i dont trust her all the time either amongst other issues we have.\nI do love her but i dont know if thats enough to keep us going as we dont really have much in common, i fear that when i leave for uni we wont be able to keep the relationship going when we are 2 hours away from eachother.\nAm i just holding onto her because she is my first?\nHas anyone been in this situation and what did you do? any advice would be helpful.\nThanks.",
+        "output": "Feels like love is just holding us together, we argue and we have lots of problems in our relationship and arent that compatible. Am i staying with her because i dont want to lose my first real girlfriend."
+    },
+    {
+        "instruction": "Decide the relationship between these sentences: neutral, contradiction, or entailment.",
+        "input": "Sentence 1: Sportivo Atlético Club is an Argentine sports club, from the city of Las Parejas, in the Santa Fe Province. Although many sports are practised in the club, it is mostly known for its football and basketball teams. The football squad currently plays in the Torneo Argentino B, the regionalised 4th division of the Argentine football league system).\nSentence 2: Sportivio Athletico Club has a very good swimming program. ",
+        "output": "neutral"
+    },
+    {
+        "instruction": "",
+        "input": "The answer to the question: What is the name of the piece that calls for an intermission after the fourth movement? is inside the article: A composer may also respond to a text by expanding a choral symphony beyond the normal bounds of the symphonic genre. This is evident in the unusual orchestration and stage directions Berlioz prepared for his Roméo et Juliette. This piece is actually in seven movements, and calls for an intermission after the fourth movement – the \"Queen Mab Scherzo\" – to remove the harps from the stage and bring on the chorus of Capulets for the funeral march that follows. Berlioz biographer D. Kern Holoman observed that, \"as Berlioz saw it, the work is simply Beethovenian in design, with the narrative elements overlain. Its core approaches a five-movement symphony with the choral finale and, as in the [Symphonie] Fantastique, both a scherzo and a march.... The 'extra' movements are thus the introduction with its potpourri of subsections and the descriptive tomb scene [at the end of the work].\"Mahler expanded the Beethovenian model for programmatic as well as symphonic reasons in his Second Symphony, the \"Resurrection\", the vocal fourth movement, \"Urlicht\", bridging the childlike faith of the third movement with the ideological tension Mahler seeks to resolve in the finale. He then abandoned this pattern for his Third Symphony, as two movements for voices and orchestra follow three purely instrumental ones before the finale returns to instruments alone. Like Mahler, Havergal Brian expanded the Beethovenian model, but on a much larger scale and with far larger orchestral and choral forces, in his Symphony No. 1 \"The Gothic\". Written between 1919 and 1927, the symphony was inspired by Goethe's Faust and Gothic cathedral architecture. The Brian First is in two parts. The first consists of three instrumental movements; the second, also in three movements and over an hour in length, is a Latin setting of the Te Deum., can you guess it ?\nThe answer to this question is:",
+        "output": "Roméo et Juliette."
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "Coming off from their divisional win over the Buccaneers, the Panthers stayed at home for a Week 15 interconference duel with the Denver Broncos. In the first quarter, Carolina trailed early as Broncos QB Jay Cutler completed a 7-yard TD pass to RB P.J. Pope. Carolina soon responded with QB Jake Delhomme completing a 15-yard TD pass to WR Steve Smith. Denver would retake the lead with kicker Matt Prater nailing a 43-yard field goal, yet Carolina answered as kicker John Kasay ties the game with a 39-yard field goal. In the second quarter, Carolina took the lead with rookie RB Jonathan Stewart getting a 2-yard TD run. Carolina closed out the half with Kasay nailing a 44-yard field goal. In the third quarter, Carolina increased its lead with RB DeAngelo Williams's 56-yard TD run for the only score of the period. In the fourth quarter, Carolina sealed the win with Kasay's 42-yard field goal.\n\nAnswer this question based on the article: Who threw the second longest touchdown pass?",
+        "output": "Based on the given information, the second longest touchdown pass in the game was thrown by Panthers QB Jake Delhomme, who completed a 15-yard TD pass to WR Steve Smith."
+    },
+    {
+        "instruction": "Write a story with the theme \"Be wise when you speak.\"",
+        "input": "",
+        "output": "Judge Matt had it all, a successful career, a loving family, and the respect of his peers. His quick wit and tongue made him a well-known person within the courtroom. But outside work, he was reckless and impulsive. While at a public event, he made a careless remark which was caught on camera, spreading like wildfire across the internet. He lost his family's trust, his job, and his reputation. He was left with nothing in his darkest moment. Judge Matt realized the truth of the adage, \"Be wise when you speak,\" and committed to change for the better. Seeing his efforts, his former colleague reached out with an opportunity to return to the bench. Judge Matt embraced the chance and transformed himself, earning the trust of his family and friends. He had gained something more valuable than he had lost—the power of his words, wisdom, and compassion."
+    },
+    {
+        "instruction": "You are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+        "input": "Acordul a fost semnat la 14 iulie 2010 şi acoperă aspecte legate de siguranţă, impozitarea carburantului pentru aviaţie, normele de concurenţă etc.\n\nTranslate to English\n\nEnglish:",
+        "output": "First, I will read and understand the given text in Romanian. \n\nText in Romanian: \"Acordul a fost semnat la 14 iulie 2010 şi acoperă aspecte legate de siguranţă, impozitarea carburantului pentru aviaţie, normele de concurenţă etc.\"\n\nStep 1: Identifying key phrases and words:\n- Acordul (The agreement)\n- 14 iulie 2010 (July 14, 2010)\n- acoperă aspecte (covers aspects)\n- siguranţă (safety)\n- impozitarea carburantului pentru aviaţie (aviation fuel taxation)\n- normele de concurenţă (competition rules)\n\nStep 2: Arranging the key phrases and words into a coherent sentence in English:\n\"The agreement was signed on July 14, 2010, and covers aspects related to safety, aviation fuel taxation, competition rules, etc.\"\n\nFinal translation in English: \"The agreement was signed on July 14, 2010, and covers aspects related to safety, aviation fuel taxation, competition rules, etc.\""
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information.",
+        "input": "Question: Jackson had 20 kilograms of meat. He used 1/4 of the meat to make meatballs and used 3 kilograms of meat to make spring rolls. How many kilograms of meat are left? Think carefully first, then make a decision:",
+        "output": "First, let's find out the amount of meat used for meatballs: \n\n20 kg x 1/4 = 5 kg\n\nNow, let's consider the amount of meat used for spring rolls: 3 kg\n\nAdding the amounts of meat used for both dishes:\n\n5 kg (meatballs) + 3 kg (spring rolls) = 8 kg\n\nFinally, subtract the used meat from the total amount of meat to find the remaining meat:\n\n20 kg (total meat) - 8 kg (used meat) = 12 kg (remaining meat)\n\nJackson has 12 kilograms of meat left."
+    },
+    {
+        "instruction": "Based on the content of these sentences, determine if they are duplicates of each other. Select 'duplicate' or 'not duplicate'.",
+        "input": "Text 1: Could you explain the Datum concept that is used in engineering drawing?\nText 2: Can you explain about engineering drawing?",
+        "output": "not duplicate"
+    },
+    {
+        "instruction": "Evaluate the relationship between these two sentences: neutral, contradiction, or entailment.",
+        "input": "Sentence 1: In a separate mass shooting on Saturday in Pittsburgh, a man donned a bulletproof vest and killed three police officers after he had been driven into a murderous rage by an argument with his mother over a dog.  According to court papers, Richard Poplawski — who had recently been dishonourably discharged from the US Marines — had been arguing with his mother about the dog urinating inside their home early on Saturday morning when she threatened to evict him. When the argument escalated, she called the police. By the time a patrol car turned up at after 7am, Mr Poplawski, 23, had armed himself with an assault rifle, a long-arm rifle, a pistol and several rounds of ammunition.\nSentence 2: Richards dog also had issues pooping in the house.",
+        "output": "neutral"
+    },
+    {
+        "instruction": "You are an AI assistant. Provide a detailed answer so user don’t need to search outside to understand the answer.",
+        "input": "I know that the answer to the question \"The Barbier reaction is used to produce what organometallic compound?\" is in \"There are many important organozinc compounds. Organozinc chemistry is the science of organozinc compounds describing their physical properties, synthesis and reactions. Among important applications is the Frankland-Duppa Reaction in which an oxalate ester(ROCOCOOR) reacts with an alkyl halide R'X, zinc and hydrochloric acid to the α-hydroxycarboxylic esters RR'COHCOOR, the Reformatskii reaction which converts α-halo-esters and aldehydes to β-hydroxy-esters, the Simmons–Smith reaction in which the carbenoid (iodomethyl)zinc iodide reacts with alkene(or alkyne) and converts them to cyclopropane, the Addition reaction of organozinc compounds to carbonyl compounds. The Barbier reaction (1899) is the zinc equivalent of the magnesium Grignard reaction and is better of the two. In presence of just about any water the formation of the organomagnesium halide will fail, whereas the Barbier reaction can even take place in water. On the downside organozincs are much less nucleophilic than Grignards, are expensive and difficult to handle. Commercially available diorganozinc compounds are dimethylzinc, diethylzinc and diphenylzinc. In one study the active organozinc compound is obtained from much cheaper organobromine precursors:\". Can you tell me what it is?\nA:",
+        "output": "The organometallic compound produced in the Barbier reaction is an organozinc compound. The Barbier reaction is the zinc equivalent of the magnesium Grignard reaction, with the major advantage being that it can even take place in water. The reaction involves a nucleophilic addition of an organozinc compound to a carbonyl compound. Like the Grignard reaction, the Barbier reaction results in the formation of an alkoxide ion, which can subsequently be protonated to produce the corresponding alcohol.\n\nIn summary, the Barbier reaction is used to produce organozinc compounds, which can further react with carbonyl compounds to generate alkoxide ions and ultimately alcohols upon protonation."
+    },
+    {
+        "instruction": "Which of the following options is an appropriate approximate value in the following equation’? 625.3 of 165.83+42% of 1560= ? - 625.7\nAnswer Choices: (A) 104875.3 (B) 12825.3 (C) 1034825.3 (D) 104425.3 (E) 104825.3",
+        "input": "",
+        "output": "Let's think about the multi-choice question.\n625.3 of 165.83+42% of 1560= ? - 625.7\n103693.5+506.1= ? - 625.7\n103693.5+506.1 + 625.7= ?\n≈ 104825.3\nThe answer is E"
+    },
+    {
+        "instruction": "给定一个文本，生成一个散文风格的其中一段。 \n有些人认为秋天是一年中最美的季节。树叶在金黄和红色中变幻，被阳光照得耀眼夺目。天空湛蓝，气温宜人，微风吹来的时候，人们需要穿上一件轻薄的外套。每一个人在秋天都能找到自己喜欢的东西。有的人喜欢深入森林去徒步旅行，独自一人在带着树叶的小路上漫步。有的人喜欢栽种一些庭院里的植物，享受阳光和新鲜空气。无论你选择何种方式享受秋天，都能得到一份人生的丰富经验",
+        "input": "",
+        "output": "秋天，让人深深地沉醉在其中。漫步在小路上，踏着落叶的沙沙声，似乎可以听到时光的流动。阳光透过树叶的缝隙，洒落在脸上，温暖而清爽。或者，你可以选择在家中栽种植物，细心地呵护它们，享受着沐浴在阳光下的愉悦。不管你选择的方式是什么，都能够感受到秋天带来的宁静与美好，这些人生的丰富经验，将会伴随着你，永远铭刻在心底。"
+    },
+    {
+        "instruction": "Summarize the essential points of the following text:",
+        "input": "To start out, I generally have always had few friends. My best friend (let's call him James) was one of the only people I still considered a friend, alongside my crush (let's call her Mia) and a few others. Me, James, Mia and her close friend were all particularly good friends.\n\n That was up until James started being a dick to Mia. This caused her to walk off to the bathroom in an emotional state with our other friend on multiple occasions, whilst James and his other friends walked off laughing. This often times left me alone at the table we usually sat at for lunch. Mia properly just cut James out.\n\nThis left me in the middle, which was shitty because both sides really hated each other. Suddenly, my best friend and his new friends start being twats towards me aswell. So, I decided I'd follow Mia and just cut him out. But I soon realised that I now had next to no friends. This was as Mia and her other friend thought I was still friends with James. Therefore, I am no closer to getting with my crush, and even lonlier. How can I get Mia to understand that I want nothing to do with James, and how can I then get closer to her?",
+        "output": "Thought I would still have friends if I broke away from my best friend, turns out I was wrong again. still no closer to my crush."
+    },
+    {
+        "instruction": "User will you give you a task with some instruction. Your job is follow the instructions as faithfully as you can. While answering think step-by-step and justify your answer.",
+        "input": "Detailed Instructions: Given a sentence in the Indonesian(Bahasa variant), provide an equivalent translation in Japanese that retains the same meaning through the translation. In translation, keep numbers as it is.\nQ: Obat ini dikenal sebagai zat penghambat maturasi, yang merupakan obat kelompok baru.\nA:",
+        "output": "この薬は、成熟阻害物質として知られており、新しい薬クラスに属しています。\n\nKono kusuri wa, seijuku sogai busshitsu to shite shira rete ori, atarashii kusuri kurasu ni zokushiteimasu.\n\nExplanation:\n\n1. \"Obat ini\" translates to \"この薬\" (Kono kusuri) which means \"This medicine/drug\"\n2. \"dikenal sebagai\" translates to \"として知られており\" (to shite shira rete ori) which means \"is known as\"\n3. \"zat penghambat maturasi\" translates to \"成熟阻害物質\" (seijuku sogai busshitsu) which means \"maturation inhibitor substance\"\n4. \"yang merupakan\" translates to \"に属しています\" (ni zokushiteimasu) which means \"which belongs to\"\n5. \"obat kelompok baru\" translates to \"新しい薬クラス\" (atarashii kusuri kurasu) which means \"new drug class\"\n\nSo the translated sentence retains the same meaning as the given sentence in Indonesian."
+    },
+    {
+        "instruction": "给出一段文本并要求生成一个概括性的标题。\n原始文本：抗生素是一种治疗感染疾病的药物。它们可以杀死细菌或阻止它们的生长，从而帮助身体战胜感染。 然而，抗生素也有副作用，可能会对健康产生负面影响",
+        "input": "",
+        "output": "标题：抗生素：治疗感染的利器，副作用需警惕"
+    },
+    {
+        "instruction": "What is the emotion reflected in the following sentence? Choose one: joy, sadness, anger, fear, love, surprise.",
+        "input": "i feel hopeful like things are going to be great and like things are great",
+        "output": "joy"
+    },
+    {
+        "instruction": "How to calculate growth rate?",
+        "input": "",
+        "output": "The term “growth rate” describes the rate of change in the value of a specific metric across a given time period, expressed as a percentage.\n\nCommon examples of scenarios where the growth rate is often used are the following:\n\nCompany Sales\nPopulation Figures\nGross Domestic Product (GDP)\nInflation Rate\nUnder the specific context of financial modeling, the growth rate is most frequently on a quarterly or annual basis (i.e. year-over-year).\n\nMore defensible predictions can be made about the future trajectory of a metric in question by determining its historical growth, which can serve as a practical point of reference for forecasting purposes.\n\nHowever, the metric’s usefulness is still tied to the extent that the underlying drivers are identified and researched in-depth.\n\nBy itself, calculating the historical growth is not enough, because what actually caused the past growth and which qualitative factors are likely to determine a metric’s future growth must also be clearly understood.\n\n\nThe following formula can be used to calculate the growth rate across two periods.\n\nGrowth Rate (%) = (Ending Value ÷ Beginning Value) – 1\nFor example, if a company’s revenue was $100 million in 2020 and grew to $120 million in 2021, its year-over-year (YoY) growth rate is 20%.\n\nGrowth Rate = ($120 million ÷ $100 million) – 1 = 0.20, or 20%"
+    },
+    {
+        "instruction": "Also a comic book character, what is an orderly assigned to serve a British Military Officer?",
+        "input": "",
+        "output": "batman"
+    },
+    {
+        "instruction": "Two men A and B start from place X walking at 4 ½ kmph and 5 ¾ kmph respectively. How many km apart they are at the end of 3 ½ hours if they are walking in the same direction?\nAnswer Choices: (A) 4 3/9 km (B) 5 3/8 km (C) 4 3/8 km (D) 6 3/8 km (E) 7 3/8 km Please respond by writing a program in Python.",
+        "input": "",
+        "output": "# define the speed of A and B  \nspeed_A = 4.5  \nspeed_B = 5.75  \n# define the time  \ntime = 3.5  \n# calculate the distance they are apart  \ndistance = (speed_B - speed_A) * time  \nprint(distance)"
+    },
+    {
+        "instruction": "The present ages of three persons in proportions 4 : 7 : 5. Eight years ago, the sum of their ages was 56. Find their present ages (in years).\nAnswer Choices: (A) 8, 20, 28 (B) 16, 28, 36 (C) 20, 35, 25 (D) 16, 28, 34 (E) 16, 28, 33",
+        "input": "",
+        "output": "Let's think about the multi-choice question.\nLet their present ages be 4x, 7x and 5x years respectively.\nThen, (4x - 8) + (7x - 8) + (5x - 8) = 56\n16x = 5.\nTheir present ages are 4x = 20 years, 7x = 35 years and 5x = 25 years respectively.\nThe answer is C"
+    },
+    {
+        "instruction": "Judge whether these two sentences have the same meaning. Select 'duplicate' if they do and 'not duplicate' if they do not.",
+        "input": "Text 1: What is the craziest conspiracy theory you've heard?\nText 2: What is the weirdest conspiracy you have ever heard?",
+        "output": "duplicate"
+    },
+    {
+        "instruction": "Determine the correct word to fill in the blank in the given sentence.",
+        "input": "Sentence: 'Kyle wanted to make a sarong for Kenneth, so _ had to take his measurements.'\nOption A: 'Kyle'\nOption B: 'Kenneth'",
+        "output": "A"
+    },
+    {
+        "instruction": "中国历史上第一个不平等条约是",
+        "input": "",
+        "output": "南京条约。中英南京条约,在第一次鸦片战争后签定,是中国历史上第一个不平等条约.开始了中国半殖民地半封建的社会历史.<e>马关条约是和日本签定的,发生在中日甲午海战后,使中国完全沦为半殖民地半封建社会."
+    },
+    {
+        "instruction": "Analyze the following sentence and categorize its emotion as either joy, sadness, anger, fear, love, or surprise.",
+        "input": "i am still feeling gloomy and down",
+        "output": "sadness"
+    },
+    {
+        "instruction": "Generate an appropriate response to this email.",
+        "input": "Dear [Name],\n\nI am writing to thank you for your generous donation. Your contribution will have a tremendous impact on our organization and the work we do.\n\nThank you for your support!\n\nSincerely,\n[Name]",
+        "output": "Dear [Name],\n\nI'm glad to have been able to be a part of this initiative. I am truly happy to have made a positive impact on your organization and the important work that you do. Thank you for your kind words and for acknowledging my contribution.\n\nBest regards,\n [Your Name]"
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "Article: The Somerset Coal Canal was built in the early 19th century to reduce the cost of transportation of coal and other heavy produce. The first 16 kilometres (10 mi), running from a junction with the Kennet and Avon Canal, along the Cam valley, to a terminal basin at Paulton, were in use by 1805, together with several tramways. A planned 11.7 km (7.3 mi) branch to Midford was never built, but in 1815 a tramway was laid along its towing path. In 1871 the tramway was purchased by the Somerset and Dorset Joint Railway (S&DJR), and operated until the 1950s.\n\nNow answer this question: What was never built ",
+        "output": "The 11.7 km (7.3 mi) branch to Midford of the Somerset Coal Canal was never built."
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "Please answer the following question: Title: Potato Masher Product review: Our old potato masher was rusting, so we purchased this Kuhn Riko Potato Masher. Great quality, sturdy and does a perfect job mashing potatos and also turnips. Would you say this review depicts the product in a flattering or unflattering light?\nA:",
+        "output": "The given product review depicts the Kuhn Rikon Potato Masher in a predominantly flattering light, emphasizing its various positive aspects. The review from the customer clearly expresses their satisfaction with the product, highlighting its great quality, sturdiness, and ability to effectively mash potatoes and turnips. These features indicate that the Kuhn Rikon Potato Masher outperforms their previous potato masher, which was rusting and possibly of lower quality.\n\nThe review begins by discussing the main reason for the customer's purchase - their old potato masher had begun to rust. Rusting, as a negative attribute, creates an implied contrast between the old masher and the newly acquired Kuhn Rikon Potato Masher. The reviewer then proceeds to praise the new product for three positive attributes - its quality, sturdiness, and functionality. This further reinforces the favorable depiction of the Kuhn Rikon Potato Masher.\n\nFirst, the reviewer states that the potato masher is of \"great quality.\" Quality, in general, is an important factor for consumers, and by emphasizing this, the reviewer implies that they are pleased with the overall build and materials of the product. A high-quality product often implies durability and longevity, making it a wise investment for potential buyers.\n\nSecond, the reviewer highlights the sturdiness of the Kuhn Rikon Potato Masher. Sturdiness is a desirable trait for a kitchen tool, as it suggests that the product can withstand the demands of regular use without breaking or wearing out quickly. A sturdy product is likely to provide consistent results and eliminate the need for frequent replacements, offering potential customers more value for their money.\n\nLastly, the reviewer praises the potato masher for performing its intended function well, specifically mashing potatoes and turnips. This highlights the efficiency and versatility of the product. By noting that the Kuhn Rikon Potato Masher does a \"perfect job\" at its primary task, the reviewer signals that the product meets their expectations and requirements.\n\nIn conclusion, the customer's review paints a predominantly flattering picture of the Kuhn Rikon Potato Masher. The review focuses on the product's great quality, sturdiness, and efficient functionality—all of which are desirable traits for a kitchen tool. The satisfactory experience described in the review is likely to entice potential buyers and contribute positively to the product's reputation."
+    },
+    {
+        "instruction": "为给定的一段文本生成一个标题，并输出标题。\n你无法改变风向，但你可以调整你的风帆",
+        "input": "",
+        "output": "标题： 调整风帆的重要性"
+    },
+    {
+        "instruction": "给定一个问题，请回答问题并解释答案。\n什么是深度学习？",
+        "input": "",
+        "output": "深度学习是机器学习的一种分支，通过多层神经网络模型，对大量数据进行学习和训练，能够自动地从数据中学习到复杂的模式和规律，并且能够实现各种智能应用，例如图像识别、自然语言处理、语音识别等。"
+    },
+    {
+        "instruction": "Decide whether the following statements are neutral, contradiction, or entailment.",
+        "input": "Sentence 1: Major technology companies had been experimenting with Intel alternatives even before the security flaws were revealed. Last March, Microsoft committed to using ARM processors for its Azure cloud service, and in December, Microsoft Azure deployed Advanced Micro Devices processors in its data centers. Alphabet Inc's Google said in 2016 that it was designing a server based on International Business Machines Corp's Power9 processor. And Amazon.com Inc's Amazon Web Services chose AMD graphics processing units for a graphics design service announced in September.\nSentence 2: Alphetic Inc's Google is designing a server based on a processor with a number in its name.",
+        "output": "entailment"
+    },
+    {
+        "instruction": "In a certain state, the ratio of registered Republicans to registered Democrats is 3 to 2, and every registered voter is either a Republican or a Democrat. If 90 percent of the Republicans and 15 percent of the Democrats are expected to vote for Candidate X, and everyone else is expected to vote for Candidate Y, by what percent is Candidate X expected to win the election?\nAnswer Choices: (A) 2% (B) 5% (C) 8% (D) 10% (E) 20%",
+        "input": "",
+        "output": "Let's think about the multi-choice question.\nSince we were expected to find a percentage figure - It thought that it might be easier to pick a 'smart number' to represent the total number of voters (republicans and democrats). Therefore, I picked 100 (as the total number of voters) and thus 30:20 represents the number ratio of Republicans:Democrats. If 90% of Republicans (which is (60*0.9) = 54) and 15% of Democrats (40*0.15 = 6) voted for candidate X, means that out of total of 100 voters; 60 (54 + 6) voters voted for candidate X and 40 voted for candidate Y. Thus we can infer that candidate X is expected to win the election by 20 (60-40) votes. Therefore candidate X is expected to win the election by (20/100) votes which is equivalent to 20%.\nI think The answer is E."
+    },
+    {
+        "instruction": "You are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-bystep and justify your answer.",
+        "input": "Alice needs to sell $1000 of shoes to meet her quota. Adidas cost $45, Nike cost $60, and Reeboks cost $35. If she sells 8 Nikes, 6 Adidas's, and 9 Reeboks, how much is she short or above her goal? Think carefully first, then make a decision:",
+        "output": "To determine whether Alice meets her quota or not, we need to calculate the total value of the shoes she sold.\n\nFirst, let's find out how much she earned from each brand individually:\n\n1. Adidas: She sold 6 pairs for $45 each, so 6 * $45 = $270.\n2. Nike: She sold 8 pairs for $60 each, so 8 * $60 = $480.\n3. Reebok: She sold 9 pairs for $35 each, so 9 * $35 = $315.\n\nNow, let's add up the amounts to find her total earnings:\n\n$270 (Adidas) + $480 (Nike) + $315 (Reebok) = $1065.\n\nHer target quota was $1000, and she sold $1065 worth of shoes.\n\nNow, we subtract her quota from her earnings to find out whether she is above or below the target:\n\n$1065 (Total earnings) - $1000 (Quota) = $65.\n\nAlice has exceeded her quota by $65."
+    },
+    {
+        "instruction": "告诉我你最近学到的一个新词。",
+        "input": "",
+        "output": "当然可以。最近我学习了一个新词，那就是“幽默感”(sense of humor)。 这个词指的是一个人看待事物的一种特殊方式，可以用幽默的方式来应对生活中的困难和挑战，并且能够在日常生活中创造欢笑和轻松的氛围。希望这对你有所帮助。"
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "Answer the following question: Extract the answer to the question from the following context. Question: what was reunited under the crown of  Leon? Context: After annexing the County of Portugal into one of the several counties that made up the Kingdom of Asturias, King Alfonso III of Asturias knighted Vimara Peres, in 868 AD, as the First Count of Portus Cale (Portugal). The region became known as Portucale, Portugale, and simultaneously Portugália — the County of Portugal. Later the Kingdom of Asturias was divided into a number of Christian Kingdoms in Northern Spain due to dynastic divisions of inheritance among the kings offspring. With the forced abdication of Alfonso III \"the Great\" of Asturias by his sons in 910, the Kingdom of Asturias split into three separate kingdoms of León, Galicia and Asturias. The three kingdoms were eventually reunited in 924 (León and Galicia in 914, Asturias later) under the crown of León.\nAnswer:",
+        "output": "The Kingdom of Asturias was divided into three separate kingdoms - León, Galicia, and Asturias - after the forced abdication of Alfonso III \"the Great\" in 910. These three kingdoms were eventually reunited under the crown of León in 924, with León and Galicia uniting in 914 and Asturias joining later."
+    },
+    {
+        "instruction": "Who play the title roles in the 1989 film ‘Tango and Cash’?",
+        "input": "",
+        "output": "kurt russell and sylvester stallone"
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "The driver of the train that derailed in northwestern Spain was charged Sunday with 79 counts of homicide by professional recklessness and an undetermined number of counts of causing injury by professional recklessness. At least 79 people died as a result of last week's crash. A court granted the driver, Francisco Jose Garzon, conditional release. His train driver's license was suspended for six months. He must report to court weekly, and his passport was surrendered. Earlier Sunday, the driver, who was hospitalized for two days while under police guard, was transferred to court, officials said. He was in court for more than five hours. The data recorders from the train are still with police. Questions have focused on the speed at which the train was traveling as it entered a curve in the track near Santiago de Compostela on Wednesday evening. The crash on the outskirts of the city, which is popular with tourists and Christian pilgrims, shocked the Galician region and the rest of the nation. Interior Minister Jorge Fernandez Diaz told reporters Saturday there are \"rational indications\" that the accident was the fault of the driver. Pressed on what those are, he declined to provide details. 5 questions on high-speed rail. Identifying the bodies. The crumpled wreckage of the eight cars sent careering onto their sides when the train derailed has been removed from the tracks, but the grim task of identifying the dead continues. Maria Pardo Rios, a spokeswoman for the Galicia regional supreme court, told CNN late Friday that 75 victims had been identified. At least 63 of the dead are Spanish, she said. Also among the fatalities are two U.S. citizens -- Ana-Maria Cordoba of Arlington, Virginia, and Myrta Fariza of Houston -- and some Europeans and Latin Americans. Fariza and her husband were on their way to celebrate a Catholic festival. He was injured and later released from the hospital. \"Myrta was our loving wife, mother, sister, mother-in-law, aunt and friend, and words cannot express our sense of loss,\" her family said in a statement. \"To all who knew her, Myrta provided irreplaceable love, compassion, courage, friendship and support. We will miss her dearly.\" As they are identified, most of the bodies are being returned to their families, the regional justice department said. DNA testing will be conducted on some remains to establish their identity, it said. Police forensic experts said at a news conference Saturday there are 37 body parts that must still be tested to see whether they belong to bodies that have already been identified, or to others not yet known. The death toll rose to at least 79 on Sunday morning when another person died, a representative for the regional health department said. About 70 people who were injured in the crash remained in the hospital Sunday, about 22 of them listed in serious condition, the official said. At least five U.S. citizens were injured, said State Department deputy spokeswoman Marie Harf. Local newspaper La Voz de Galicia said that a funeral service for the victims will take place Monday evening in the cathedral in Santiago de Compostela. Spain train crash victim: 'It felt like a roller coaster' Going too fast? Spanish news agency Efe and the national daily El Pais cited sources within the investigation as saying that the driver had said the train was traveling about 190 kilometers per hour (about 120 mph). Elena Garcia, a spokeswoman for national railway Renfe, did not disclose Friday the speed the train was traveling on an express track, where cars can move as fast as 250 kph. But she said the speed limit for the bend of track where the crash occurred is 80 kph. Rafael Catala, secretary of state for transport and housing, told Spanish radio network Cadena SER that the \"tragedy appears to be linked to the train going too fast,\" but that the reasons it was going so fast are not yet known. The express passenger service was nearing the end of a six-hour trip from Madrid to the town of Ferrol in northwest Spain when the crash occurred, the state railway said. Security footage revealed how, as the train hurtled around a bend, its cars derailed and slammed on their sides into a concrete support structure for a bridge. Opinion: Why high-speed rail is safe, smart. Flames burst out of one train car as another car was snapped in half. Rescue crews and fellow passengers pulled bodies through broken windows and pried open doors as stunned survivors looked on. Maria Vigo, whose home is on the bank above the rail tracks, told CNN how she heard a crash, then the deafening squeal of metal on concrete. \"When I saw the rail car flip into the air, I imagined something just horrible had happened,\" she said. She and husband Suso tried to help the injured, taking bed sheets to wrap around the injured and ropes to haul the survivors off the tracks. Firefighter Miguel Angel Bello said the first four minutes after he arrived on the scene were a desperate race against time. He and fellow firefighters smashed windows and kicked in doors to pull out the passengers trapped inside as rail cars went up in flames. A young girl in the wreckage called out to him. \"She was under wreckage she said she wanted to get out and go home,\" he said. \"But she died.\" Survivor: We looked like the walking dead. Stephen Ward of Bountiful, Utah, who is in Spain serving on a Mormon religious mission, was one of the lucky ones. Still patched up and wearing a neck brace, he told CNN's New Day show of his ordeal -- and his relief that he made it out alive and without permanent injury. Ward, 18, blacked out when his car slammed on to its side, regaining consciousness only as he was being helped out of the train. It took him a couple of minutes to grasp that what he was seeing outside was not a dream -- and that people were dead. \"They were helping out other people -- there were bodies, there was screaming, there was smoke.\" The survivors looked like the walking dead, he said. \"I've got staples all over my scalp, I was covered in blood. They've scrubbed most of it off me now, but everyone was just covered in their own blood and occasionally the blood of others. It was gruesome to say the least.\" Another victim, speaking from a hospital bed with his arm in a sling, told CNN affiliate Atlas that it seemed like the train was going fast. \"But we didn't know what was the maximum speed, so I thought it was normal,\" he said, \"And suddenly there was a curve, the suitcases fell, and everything went dark. And I hit my head a ton of times, and 10 seconds later I was wedged between seats, and I had people's legs on top of me.\" The derailment came on the eve of a public holiday to celebrate a saint's day, when more people than usual may have been traveling in the region. Planned festivities in Santiago de Compostela and across Galicia were canceled after the crash. CNN's Karl Penhaul reported from Santiago de Compostela and Laura Perez Maestro from Galicia. CNN's Laura Smith-Spark wrote in London. CNN's Al Goodman, Lindsay Isaac, Jonathan Helman, Catherine E. Shoichet, Elwyn Lopez, Patrick Sung, Jill Dougherty and Mariano Castillo contributed to this report.\nWhat are the important parts of this article?",
+        "output": "A train went off the tracks in Spain and many people got hurt and some even died. The person driving the train, Francisco Jose Garzon, has been in trouble because they think he was going too fast. He has to go to court and cannot drive trains for the next six months. There will be a funeral for the people who died and many are still in the hospital getting better. The train was going from Madrid to Ferrol and the accident happened near a place called Santiago de Compostela. People are still trying to figure out everything that happened and why the train was going so fast."
+    },
+    {
+        "instruction": "TreShaun's full marker has enough ink in it to paint three 4 inch by 4 inch squares. If he colors in two 6 inch by 2 inch rectangles, what percentage of ink is left?",
+        "input": "",
+        "output": "The full marker has enough ink to paint 3*4*4=48 square inches\nEach rectangle uses 2*6=12 square inches\nBoth rectangles will use 12*2=24 square inches\nThere will be 48-24=24 square inches of ink left\nThis is 24/48*100=50% of the ink\nThe answer is 50"
+    },
+    {
+        "instruction": "给出一篇短文，并询问读者想要了解文中哪方面的细节信息。\n下面是一篇关于狗狗的文章：\n有些人会使用骨头、玩具或食物来诱导狗狗给予回应，但实际上，这并不是一个好方法。因为这种方法只会奖励狗狗做出回应，而不是为了激发狗狗的好习惯和积极的行为。\n请列出您想要了解的关于以上文章的细节信息。",
+        "input": "",
+        "output": "读者可能想了解更多关于如何激发狗狗好习惯和积极行为的具体方法和技巧。"
+    },
+    {
+        "instruction": "Condense the following information into a brief summary:",
+        "input": "Okay just to give you guys a backstory and help you understand my situation I am a 16 y/o male and have never been in a relationship of any kind. Kissless virgin as well.\nBackstory:\nOkay this girl and I we'll call her Jenna.\nJenna and I met at a party through a mutual friend and I guess we just found each other attractive, we didn't talk much or anything. Just small talk. Later we meet again but we don't talk as much again. This time my friend gives her my number and she starts calling me bae, baby, and cute stuff like that. \nMe, going along with it, I start calling her bae and baby and stuff. She texts me good morning and stuff like that, so do I.\nWe started talking a lot over the phone and I can tell that this will actually turn to a real relationship, the 2nd day we met, we were texting and we went to hang out and eat some food. It wasn't awkward, it was just sorta weird I guess? We talked but we were really bad at it, and we didn't do much other than drive around a lot, then she dropped me off and had to go home.\nRecently she asked if I wanted to see a theatre play with her at her school on saturday at 9 am. Me, taking advantage of the situation I said yes and I'm pretty nervous about it. I then asked her if she wanted to go to the mall later on because she said she wanted to shop. So Sunday we are going to the mall, saturday, watch a play at her school.\nI am pretty scared because I do have social anxiety, I'm not real awkward, I just feel out of place and really weird. \nI don't know what to do? Any advices would be appreciated. Thanks!",
+        "output": "Never been in relationship, girl asks me to go to mall/theatre play with her, I agree, Nervous and scared."
+    },
+    {
+        "instruction": "Add a noun that describes the following attributes: kind, generous",
+        "input": "",
+        "output": "Philanthropist."
+    },
+    {
+        "instruction": "You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",
+        "input": "Gel packs have been made with diethylene glycol and ethylene glycol both of which can cause illness if ingested in large amounts, making them unsuitable for use with food. The US Consumer Product Safety Commission recalled such packs.\nAnswer this question, making sure that the answer is supposed by the text: is the blue stuff in ice packs poisonous?",
+        "output": "Yes, the blue stuff in some ice packs can be poisonous. It contains chemicals like diethylene glycol and ethylene glycol that can make people sick if they eat a lot of it. That's why they shouldn't be used with food and some were even taken off the market. So, it's important to be careful and not eat the blue stuff in ice packs."
+    },
+    {
+        "instruction": "You are an AI assistant. You will be given a task. You must generate a detailed and long answer.",
+        "input": "What is a one-sentence summary of the following article?\nThere are parts of the game where you will not be under the immediate threat of zombies. For the duration of these parts, you must do certain things in order to progress, such as exploring every area to uncover bits and pieces of the story.  You can gather information, read notes, gather food, and even find weapons if you explore properly. You are almost always required to collect all items in any given scene to progress. In certain cases, however, discovering everything is optional and not required to progress to the next part of the story. There are chances to stumble into a small event, such as eavesdropping into someone's conversation, if it pertains to the story. Do everything you think is possible, such as give the food you find to your allies or sit next to them and talk. Eventually, you will hear more of their side and gain objectives for your next mission. Using Lee, you have the option to come off as strongly to one side, strongly to the other, or neutral. This is affected by the choices that you make, in addition to affecting your relationship with Clementine.  Whether or not Clementine is your Lee's first priority is your decision. Every decision you make may or may not hold consequences, so take care if you don't want somebody to be unhappy with you. Choose what you believe is right, then move on. This game is tailored to your choices. Though the first season always has the same ending, how you get there is entirely up to you. There really is no right or wrong choice in this game. The game's setting presents a moral grey area, so be confident in the choices that you make.\n\nSummary:",
+        "output": "The article pertains to a game that alternates between safety and threat of zombie attack, in which progression requires exploration, collecting items and unfolding narratives, with optional discovery and the chance to encounter small events pertinent to the story; players can strengthen relationships, influence character alignment, and effect repercussions through choice, illustrating the game's focus on player decisions that, although guiding towards an unchangeable end in the first season, determine the journey therein, underlining that there are no unequivocally right or wrong choices due to the game's morally gray setting."
+    }
+]
